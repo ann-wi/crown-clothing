@@ -1,15 +1,16 @@
 .custom-button {
     min-width: 165px;
     width: auto;
-    height: 50px;
+    height: 60px;
     letter-spacing: 0.5px;
-    line-height: 50px;
-    padding: 0 35px 0 35px;
-    font-size: 15px;
+    line-height: 30px;
+    font-size: 14px;
+    display: block;
+    margin: 5px; //it fixed space between bottons
     background-color: black;
     color: white;
     text-transform: uppercase;
-    font-family: 'Open Sans Condensed';
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bolder;
     border: none;
     cursor: pointer;
